@@ -1,0 +1,11 @@
+Movie Recommender System
+
+----This project uses Content based recommendation for movie recommendation.-----
+
+
+							-----Project Flow-----
+
+
+1. Get Data
+2.Data Preprocessing
+3.Model Building
